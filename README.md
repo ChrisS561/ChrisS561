@@ -8,7 +8,7 @@
   - LinkedIn  : [Christopher Smith Jr](https://www.linkedin.com/in/chrissmithjr/)
 
 ### Planned Projects:
-- An automated project showcasing NBA rookies' current-year stats for sports enthusiasts.
+- An automated project showcasing NBA & NFL rookies' current-year stats for sports enthusiasts.
 - Website for an emerging basketball gym, enabling users to sign up for classes, purchase packages, and actively promote the gym's offerings
 
 <br/>
