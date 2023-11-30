@@ -1,6 +1,7 @@
 
 ### 👷 Check out what I'm currently working on
 - [Author Website ](https://github.com/ChrisS561/author-books-website) - An author website to showcase and promote books available for purchase.
+- [RookieTracker Hub](https://github.com/ChrisS561/RookieStatsHub) - An automated project showcasing NBA & NFL rookies' current-year stats for sports enthusiasts.
 
 ### 📫 How to reach me:
   - Email     : [Chrissmithjr97@gmail.com](Chrissmithjr97@gmail.com)
@@ -8,7 +9,6 @@
   - LinkedIn  : [Christopher Smith Jr](https://www.linkedin.com/in/chrissmithjr/)
 
 ### Planned Projects:
-- An automated project showcasing NBA & NFL rookies' current-year stats for sports enthusiasts.
 - Website for an emerging basketball gym, enabling users to sign up for classes, purchase packages, and actively promote the gym's offerings
 
 <br/>
