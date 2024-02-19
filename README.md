@@ -1,6 +1,5 @@
 
 ### 👷 Check out what I'm currently working on
-- [Author Website ](https://github.com/ChrisS561/author-books-website) - An author website to showcase and promote books available for purchase.
 - [RookieTracker Hub](https://github.com/ChrisS561/RookieStatsHub) - An automated project showcasing NBA & NFL rookies' current-year stats for sports enthusiasts.
 
 ### 📫 How to reach me:
