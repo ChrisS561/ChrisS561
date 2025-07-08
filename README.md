@@ -1,6 +1,5 @@
 
 ### 👷 Check out what I'm currently working on
-- [RookieTracker Hub](https://github.com/ChrisS561/RookieStatsHub) - An automated project showcasing NBA & NFL rookies' current-year stats for sports enthusiasts.
 
 ### 📫 How to reach me:
   - Email     : [Chrissmithjr97@gmail.com](Chrissmithjr97@gmail.com)
