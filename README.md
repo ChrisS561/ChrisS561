@@ -1,13 +1,13 @@
 
 ### 👷 Check out what I'm currently working on
-
+-
 ### 📫 How to reach me:
   - Email     : [Chrissmithjr97@gmail.com](Chrissmithjr97@gmail.com)
   - Website   : <https://Christophersmithjr.com>
   - LinkedIn  : [Christopher Smith Jr](https://www.linkedin.com/in/chrissmithjr/)
 
 ### Planned Projects:
-- Website for an emerging basketball gym, enabling users to sign up for classes, purchase packages, and actively promote the gym's offerings
+- 
 
 <br/>
 <p align="left">
